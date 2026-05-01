@@ -43,6 +43,17 @@ In FinFet (Gate ll around transistors), the widht of the contact is reduced and 
 
 Parasitic capacitance
 
+Scaling down the gates of the transitors also scales doown the instrisic capacitance cox but increases the parasitic capacitance, this effect can be conter by introducing a lower K material in the gap between the gate and source achieving an overall ceff reduction
+
+<img width="1098" height="612" alt="image" src="https://github.com/user-attachments/assets/bd5f9604-690a-4d3a-b7ec-9c07b69ce6f1" />
+
+Devince scaling using layered materials
+
+Using layered materials to try to sclae down the transiors to get lenfgt closer to 0.5nm. Using certain materials like MOS it is possible to deposit atomically precised layers of around 0.65nm accors the wafer, this material also increassses teh effective mass and reducing the bandgap
+
+<img width="1093" height="607" alt="image" src="https://github.com/user-attachments/assets/76bfbcf5-cf9f-43f3-a83c-1c10a9b19d23" />
+
+
 
 
 
