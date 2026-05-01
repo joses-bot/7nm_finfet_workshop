@@ -17,6 +17,20 @@ CMOS Process evolution from 1um to sub-micron
 
 <img width="1095" height="616" alt="image" src="https://github.com/user-attachments/assets/2077455e-b486-48eb-ac89-c7a6b063e360" />
 
+Cell area scaling by changing the cell size
+
+vertical dimension (cell height), horizontal dimension (cell width)
+
+vertical dimension decrease -Fin depopulation used to decrease cell height and decrease the load capacitance decreasing the power consumption on the device
+
+<img width="1101" height="617" alt="image" src="https://github.com/user-attachments/assets/17fe9e9d-ead8-48a9-8ce0-e3f148106e5d" />
+
+Horizontal dimension decrease using diffcuison e.g from DDb (doubke diffusion break) to SDB (single diffusion break - using just one poly)
+
+<img width="1100" height="607" alt="image" src="https://github.com/user-attachments/assets/1d7d2588-ee3b-49c3-85dd-e2de4d5ae1c3" />
+
+
+
 
 
 
