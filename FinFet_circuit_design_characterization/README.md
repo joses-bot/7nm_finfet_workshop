@@ -11,11 +11,14 @@ At lower Vt we can get a lower leakage current (low power applications), even tu
 
 <img width="1127" height="637" alt="image" src="https://github.com/user-attachments/assets/04d280e8-819f-4766-a9b5-d6f7f999e553" />
 
-CMOS Process evolution from 1um to 
-
-
+CMOS Process evolution from 1um to sub-micron
 
 <img width="1128" height="638" alt="image" src="https://github.com/user-attachments/assets/40652000-a279-4147-9aeb-09d8e72b00d8" />
+
+<img width="1095" height="616" alt="image" src="https://github.com/user-attachments/assets/2077455e-b486-48eb-ac89-c7a6b063e360" />
+
+
+
 
 
 
