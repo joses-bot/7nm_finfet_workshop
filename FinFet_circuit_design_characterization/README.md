@@ -38,6 +38,7 @@ Parasitics resistence
 In planar -> the width of the contact is equal to the width of the channel keeping the extrinsic resistance low
 In FinFet (Gate ll around transistors), the widht of the contact is reduced and the extrinsic resistance increases, challenge is to find new material to keep that ressitance to a low value, for instance using titatnium instead of nickel reduces the contact resistance and barrier height
 
+<img width="1103" height="607" alt="image" src="https://github.com/user-attachments/assets/e63f6a70-43c3-42aa-ac4e-0b7467431bb4" />
 <img width="1092" height="612" alt="image" src="https://github.com/user-attachments/assets/9027969d-9423-4c1d-9bec-3b98878b767f" />
 
 Parasitic capacitance
@@ -47,7 +48,6 @@ Parasitic capacitance
 
 
 
-<img width="1103" height="607" alt="image" src="https://github.com/user-attachments/assets/e63f6a70-43c3-42aa-ac4e-0b7467431bb4" />
 
 
 
