@@ -26,10 +26,28 @@ vertical dimension decrease -Fin depopulation used to decrease cell height and d
 <img width="1101" height="617" alt="image" src="https://github.com/user-attachments/assets/17fe9e9d-ead8-48a9-8ce0-e3f148106e5d" />
 
 Horizontal dimension decrease using diffcuison e.g from DDb (doubke diffusion break) to SDB (single diffusion break - using just one poly)
+COFG (contact over field gate) to  COAG (contact over active region) 
+Power/Ground rails embedded into the substrate  reduce the cell height
 
 <img width="1100" height="607" alt="image" src="https://github.com/user-attachments/assets/1d7d2588-ee3b-49c3-85dd-e2de4d5ae1c3" />
 
+Parasitics
 
+Parasitics resistence
+
+In planar -> the width of the contact is equal to the width of the channel keeping the extrinsic resistance low
+In FinFet (Gate ll around transistors), the widht of the contact is reduced and the extrinsic resistance increases, challenge is to find new material to keep that ressitance to a low value, for instance using titatnium instead of nickel reduces the contact resistance and barrier height
+
+<img width="1092" height="612" alt="image" src="https://github.com/user-attachments/assets/9027969d-9423-4c1d-9bec-3b98878b767f" />
+
+Parasitic capacitance
+
+
+
+
+
+
+<img width="1103" height="607" alt="image" src="https://github.com/user-attachments/assets/e63f6a70-43c3-42aa-ac4e-0b7467431bb4" />
 
 
 
